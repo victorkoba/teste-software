@@ -1,9 +1,4 @@
 # Projeto Login e Cadastro PHP
-
-Este projeto é um sistema simples de **login** e **cadastro** em PHP, usando MySQL e testes automatizados com Node.js.
-
----
-
 ## 1. Pré-requisitos
 
 Antes de rodar o projeto, você precisa ter instalado:
