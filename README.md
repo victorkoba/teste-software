@@ -1,4 +1,4 @@
-# Projeto Login e Cadastro PHP
+# Teste Software em Login e Cadastro PHP
 ## 1. Pré-requisitos
 
 Antes de rodar o projeto, você precisa ter instalado:
